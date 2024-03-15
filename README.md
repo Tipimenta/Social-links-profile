@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/sociallinksprofile-Cn58ExVLvQ
+- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile-9213SwuXUg
 - Live Site URL: https://tipimenta.github.io/Social-links-profile/#
 
 ## My process
